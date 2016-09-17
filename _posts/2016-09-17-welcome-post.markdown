@@ -6,12 +6,8 @@ categories: stuff
 ---
 
 Ok, let's try once again another blog about coding and stuff around IT.
-I'll write sometimes in English, sometimes in Russian cause I like both.
-I work as a tech-lead/architect for [PayCash][paycash] already more than a 3 years.
-We mainly write in Java, but sometimes groovy, sometimes bash, python, typescript... you know.
-As usual I'd like to share the knowledge painfully collected over 7 years in IT.
+I work as a tech-lead/architect mainly dealing with java plus spring, sometimes groovy, sometimes bash, python, typescript... you know.
+As usual I'd like to share the knowledge that was collected during 7 years of my professional career.
 Hope it would be useful and might help someone.
 
-Anyway, I don't think someone ever read this page, so this is just for good manners - first post.
-
-[paycash]:  https://paycash.eu
+Anyway, I don't think that someone ever read this page, so this post is just for statistics.
