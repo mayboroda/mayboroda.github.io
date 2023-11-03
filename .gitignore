@@ -24,3 +24,6 @@ tmp/*
 
 # idea
 .idea/
+
+# rust
+target/
