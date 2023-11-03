@@ -1,5 +1,3 @@
-use std::io::stdin;
-
 #[derive(Debug, PartialEq)]
 pub struct HttpHeader {
     name: String,
