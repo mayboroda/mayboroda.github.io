@@ -39,17 +39,3 @@ mod tests {
         }
     }
 }
-fn main() {
-    loop {
-        let mut input = String::new();
-
-        match stdin().read_line(&mut input) {
-            Ok(_) => {
-                if let Some(header) = HttpHeader::parse(&input) {
-                    println!("header is {:?}", header)
-                }
-            }
-            Err(_) => break
-        }
-    }
-}
